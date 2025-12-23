@@ -1,0 +1,24 @@
+# Power BI Sales Performance Dashboard
+
+## Project Overview
+This project analyzes sales performance using Power BI. The dashboard provides insights into revenue, profit, customer segments, and regional trends.
+
+## Tools Used
+- Power BI Desktop
+- Microsoft Excel / CSV
+- Data Modeling & DAX
+
+## Key Insights
+- Sales and profit trends over time
+- Regional performance comparison
+- Top-performing categories and sub-categories
+- Customer segment analysis
+
+## Dataset
+Sample Superstore dataset
+
+## Dashboard Features
+- KPI cards for Sales, Profit, and Quantity
+- Interactive slicers
+- Visual comparisons using bar, line, and map charts
+
